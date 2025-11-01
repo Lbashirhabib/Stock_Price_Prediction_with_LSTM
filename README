@@ -1,0 +1,25 @@
+## Time Series Forecasting: Stock Price Prediction with LSTM
+
+Here we are building a complete time series forecasting project using LSTM neural networks to predict stock prices. We'll use real API data and create a deployable application.
+
+What we Built:
+✅ Real-time data fetching from Yahoo Finance API
+✅ LSTM neural network for time series forecasting
+✅ Interactive visualizations with Plotly
+✅ Future price predictions
+✅ Model performance metrics
+✅ Complete Streamlit web app
+
+Key Features:
+
+Predict any stock symbol
+
+Adjustable lookback period
+
+Future day predictions
+
+Interactive charts
+
+Performance metrics
+
+Next: We Try it with different stocks (TSLA, GOOGL, MSFT) or add more features like volume analysis and technical indicators! 🚀
